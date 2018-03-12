@@ -1,0 +1,35 @@
+.main {
+	margin-top: 50px;
+}
+
+.main .canvas {
+	display: block;
+	margin: 30px auto 0;
+	background: #fff;
+	border: 2px solid #cbcbcb;
+}
+
+.text {
+	margin-left: 600px;
+	color: #575757;
+	font-size: 20px;
+}
+
+.items {
+	display: flex;
+	justify-content: center;
+}
+
+.clear {
+	margin-top: 10px;
+	padding: 4px;
+	font-size: 13px;
+	text-decoration: none;
+	border: 1px solid #004d66;
+	background: #006080;
+	color: #fff;
+}
+
+.clear:focus {
+	outline: 0;
+}
